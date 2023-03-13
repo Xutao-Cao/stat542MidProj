@@ -1,1 +1,1 @@
-# stat542MidProj
+# Stat 542 midterm project
